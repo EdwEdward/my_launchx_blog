@@ -16,5 +16,14 @@
       <description>Soon.</description>
     </item>
     
+    <item>
+      <title>Segundo post</title>
+      <link>https://edwedward.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://edwedward.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola, este es mi segundo post de prueba con este blog.</description>
+    </item>
+    
   </channel>
 </rss>
